@@ -28,4 +28,4 @@ Weather App is a sleek, responsive React application that provides up-to-the-min
 
 ▲ Vercel Deployment
 
- <a href="https://weather-app-git-main-omkargaikwad9922s-projects.vercel.app/main">👉 Visit the Website</a>
+ <a href="https://weatherapp-liard-nine.vercel.app/">👉 Visit the Website</a>
